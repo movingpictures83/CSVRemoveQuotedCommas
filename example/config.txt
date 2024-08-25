@@ -1,0 +1,2 @@
+Prefix plugins/CSVRemoveQuotedCommas/example/
+Plugin CSVRemoveQuotedCommas inputfile abund.csv outputfile output.removedquoted.csv
